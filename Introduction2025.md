@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mohanpathsariya
-- 👀 I’m interested and new in AI ML field.
+- 👋 Hi, I’m @mohanpathsariya, 17 yrs old.
+- 👀 I’m interested in AI ML field.
 - 🌱 I’m currently learning python and soon will start my Machine Learning Journey 
 - 💞️ I’m looking to collaborate on (i'll update after a time)
 - 📫 How to reach me ...(I am  new here)
